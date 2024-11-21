@@ -1,5 +1,0 @@
-Line1 for branch task2
-
-This is branch develop
-Bellow is my sollution
-This is branch dev1
